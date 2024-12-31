@@ -9,7 +9,10 @@
   - [**Phase 6: Stay Up-to-date**](#phase-6-stay-up-to-date)
   - [**Resources**](#resources)
 
+---
+
 ## **Phase 1: Foundation**
+
 - [ ] Brush up on PHP basics (OOP principles, namespaces, traits).
 - [ ] Learn Composer and PSR standards (PSR-4, PSR-12).
 - [ ] Install Laravel and set up a local development environment.
@@ -27,9 +30,8 @@
   - [ ] Create and extend layouts.
   - [ ] Use Blade directives (`@foreach`, `@if`, `@csrf`, `@auth`).
 
----
-
 ## **Phase 2: Backend Development**
+
 - [ ] Understand Eloquent ORM basics:
   - [ ] Models, migrations, and relationships (`hasOne`, `belongsTo`, `hasMany`).
 - [ ] Explore advanced Eloquent features:
@@ -48,6 +50,7 @@
 ---
 
 ## **Phase 3: Full-stack Development**
+
 - [ ] Learn component-based design with Blade components.
 - [ ] Create reusable UI pieces.
 - [ ] Build RESTful APIs:
@@ -61,6 +64,7 @@
 ---
 
 ## **Phase 4: Ecosystem and Advanced Topics**
+
 - [ ] Master queues and workers for asynchronous tasks.
   - [ ] Set up drivers (Redis, database, etc.).
 - [ ] Use Event broadcasting with WebSockets (Laravel Echo, Pusher).
@@ -75,6 +79,7 @@
 ---
 
 ## **Phase 5: Optimization and Scaling**
+
 - [ ] Learn caching strategies:
   - [ ] Cache views, routes, and query results.
 - [ ] Debug with Laravel Telescope or Debugbar.
@@ -89,6 +94,7 @@
 ---
 
 ## **Phase 6: Stay Up-to-date**
+
 - [ ] Follow Laravel's latest releases and features.
 - [ ] Participate in forums (Laravel.io, Reddit, Laracasts forums).
 - [ ] Attend Laravel events or watch Laracon videos.
@@ -99,8 +105,9 @@
 ---
 
 ## **Resources**
-- [ ] Enroll in Laracasts tutorials.
-- [ ] Watch YouTube tutorials (The Net Ninja, Traversy Media).
-- [ ] Read *Laravel: Up & Running* by Matt Stauffer.
-- [ ] Refer to the official Laravel documentation.
+
+- [ ] Enroll in [Laracasts tutorials](https://laravel.com/docs).
+- [ ] Watch YouTube tutorials ([The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gF5Gez17eHcDIxrpVSBuVt), [30 Days to Learn Laravel](https://www.youtube.com/watch?v=SqTdHCTWqks)).
+- [ ] Read *[Laravel: Up & Running](https://laravelupandrunning.com)* by Matt Stauffer.
+- [ ] Refer to the official [Laravel documentation](https://laravel.com/docs).
 - [ ] Contribute to GitHub projects or open-source code.
