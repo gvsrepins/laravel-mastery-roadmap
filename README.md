@@ -28,8 +28,9 @@ Whether you're starting from scratch or refining your skills, this roadmap will 
 
 ## 🗂️ Project Structure
 
-- **`roadmap.md`**: The complete Laravel learning checklist.
-- **`resources.md`**: A list of recommended tutorials, books, and tools.
+- **[roadmap.md](roadmap.md)**: The complete Laravel learning checklist.
+- **[resources.md](resources.md)**: A list of recommended tutorials, books, and tools.
+
 ---
 
 ## 🚀 Getting Started
