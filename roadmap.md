@@ -1,16 +1,5 @@
 # Laravel Mastery Checklist
 
-## **Phase 1: Foundation**
-- [ ] Brush up on PHP basics (OOP principles, namespaces, traits).
-- [ ] Learn Composer and PSR standards (PSR-4, PSR-12).
-- [ ] Install Laravel and set up a local development environment.
-  - [ ] Tools: PHP, Composer, Laravel Installer.
-  - [ ] Environment: Valet, Homestead, Docker, or WAMP/XAMPP.
-- [ ] Study Laravel folder structure and core concepts:
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
 - [Laravel Mastery Checklist](#laravel-mastery-checklist)
   - [**Phase 1: Foundation**](#phase-1-foundation)
   - [**Phase 2: Backend Development**](#phase-2-backend-development)
@@ -20,9 +9,13 @@
   - [**Phase 6: Stay Up-to-date**](#phase-6-stay-up-to-date)
   - [**Resources**](#resources)
 
-<!-- /code_chunk_output -->
-
-
+## **Phase 1: Foundation**
+- [ ] Brush up on PHP basics (OOP principles, namespaces, traits).
+- [ ] Learn Composer and PSR standards (PSR-4, PSR-12).
+- [ ] Install Laravel and set up a local development environment.
+  - [ ] Tools: PHP, Composer, Laravel Installer.
+  - [ ] Environment: Valet, Homestead, Docker, or WAMP/XAMPP.
+- [ ] Study Laravel folder structure and core concepts:
   - [ ] Service Providers
   - [ ] Middleware
   - [ ] Configuration files
