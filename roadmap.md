@@ -13,36 +13,36 @@
 
 ## **Phase 1: Foundation**
 
-- [ ] Brush up on PHP basics (OOP principles, namespaces, traits).
-- [ ] Learn Composer and PSR standards (PSR-4, PSR-12).
-- [ ] Install Laravel and set up a local development environment.
-  - [ ] Tools: PHP, Composer, Laravel Installer.
-  - [ ] Environment: Valet, Homestead, Docker, or WAMP/XAMPP.
-- [ ] Study Laravel folder structure and core concepts:
-  - [ ] Service Providers
-  - [ ] Middleware
-  - [ ] Configuration files
-- [ ] Learn to define routes (`web.php`, `api.php`).
-- [ ] Use controllers to handle requests.
-  - [ ] Resource controllers
-  - [ ] Route model binding
-- [ ] Practice using Blade templating engine:
-  - [ ] Create and extend layouts.
-  - [ ] Use Blade directives (`@foreach`, `@if`, `@csrf`, `@auth`).
+- [x] Brush up on PHP basics (OOP principles, namespaces, traits).
+- [x] Learn Composer and PSR standards (PSR-4, PSR-12).
+- [x] Install Laravel and set up a local development environment.
+  - [x] Tools: PHP, Composer, Laravel Installer.
+  - [x] Environment: Valet, Homestead, Docker, or WAMP/XAMPP.
+- [x] Study Laravel folder structure and core concepts:
+  - [x] Service Providers
+  - [x] Middleware
+  - [x] Configuration files
+- [x] Learn to define routes (`web.php`, `api.php`).
+- [x] Use controllers to handle requests.
+  - [x] Resource controllers
+  - [x] Route model binding
+- [x] Practice using Blade templating engine:
+  - [x] Create and extend layouts.
+  - [x] Use Blade directives (`@foreach`, `@if`, `@csrf`, `@auth`).
 
 ## **Phase 2: Backend Development**
 
-- [ ] Understand Eloquent ORM basics:
-  - [ ] Models, migrations, and relationships (`hasOne`, `belongsTo`, `hasMany`).
+- [x] Understand Eloquent ORM basics:
+  - [x] Models, migrations, and relationships (`hasOne`, `belongsTo`, `hasMany`, `BelongsToMany`).
 - [ ] Explore advanced Eloquent features:
-  - [ ] Accessors, mutators, casting.
+  - [x] Accessors, mutators, casting.
   - [ ] Query scopes and custom methods.
-- [ ] Practice creating migrations and seeding data.
-- [ ] Use factories for dummy data.
+- [x] Practice creating migrations and seeding data.
+- [x] Use factories for dummy data.
 - [ ] Master form validation:
   - [ ] Custom rules
   - [ ] Validation classes
-- [ ] Work with Request and Response objects.
+- [x] Work with Request and Response objects.
 - [ ] Implement Laravel's built-in authentication system.
   - [ ] Customize authentication with Fortify.
   - [ ] Use Gates and Policies for authorization.
@@ -51,15 +51,15 @@
 
 ## **Phase 3: Full-stack Development**
 
-- [ ] Learn component-based design with Blade components.
-- [ ] Create reusable UI pieces.
-- [ ] Build RESTful APIs:
-  - [ ] Implement API authentication (Sanctum or Passport).
+- [x] Learn component-based design with Blade components.
+- [x] Create reusable UI pieces.
+- [x] Build RESTful APIs:
+  - [z] Implement API authentication (Sanctum or Passport).
   - [ ] Handle API versioning and serialization (Resources).
-- [ ] Write tests:
-  - [ ] Feature tests
-  - [ ] Unit tests
-  - [ ] Database and HTTP testing
+- [x] Write tests:
+  - [x] Feature tests
+  - [x] Unit tests
+  - [x] Database and HTTP testing
 
 ---
 
@@ -73,8 +73,8 @@
 - [ ] Explore Service Containers and Dependency Injection.
 - [ ] Use advanced features:
   - [ ] Job chaining and retry mechanisms.
-  - [ ] Custom Artisan commands.
-  - [ ] Multi-tenancy (e.g., Spatie packages).
+  - [x] Custom Artisan commands.
+  - [x] Multi-tenancy (e.g., Spatie packages).
 
 ---
 
@@ -82,11 +82,11 @@
 
 - [ ] Learn caching strategies:
   - [ ] Cache views, routes, and query results.
-- [ ] Debug with Laravel Telescope or Debugbar.
-- [ ] Optimize database queries (eager loading, indexing).
-- [ ] Deploy applications:
-  - [ ] Learn deployment tools (Forge, Envoyer, Docker).
-  - [ ] Set up CI/CD pipelines.
+- [x] Debug with Laravel Telescope or Debugbar.
+- [x] Optimize database queries (eager loading, indexing).
+- [x] Deploy applications:
+  - [x] Learn deployment tools (Forge, Envoyer, Docker).
+  - [x] Set up CI/CD pipelines.
 - [ ] Handle large-scale applications:
   - [ ] Horizontal scaling with queues.
   - [ ] Database sharding and load balancing.
@@ -95,7 +95,7 @@
 
 ## **Phase 6: Stay Up-to-date**
 
-- [ ] Follow Laravel's latest releases and features.
+- [x] Follow Laravel's latest releases and features.
 - [ ] Participate in forums (Laravel.io, Reddit, Laracasts forums).
 - [ ] Attend Laravel events or watch Laracon videos.
 - [ ] Explore related tools:
@@ -106,8 +106,8 @@
 
 ## **Resources**
 
-- [ ] Enroll in [Laracasts tutorials](https://laravel.com/docs).
+- [x] Enroll in [Laracasts tutorials](https://laravel.com/docs).
 - [ ] Watch YouTube tutorials ([The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gF5Gez17eHcDIxrpVSBuVt), [30 Days to Learn Laravel](https://www.youtube.com/watch?v=SqTdHCTWqks)).
 - [ ] Read *[Laravel: Up & Running](https://laravelupandrunning.com)* by Matt Stauffer.
-- [ ] Refer to the official [Laravel documentation](https://laravel.com/docs).
-- [ ] Contribute to GitHub projects or open-source code.
+- [x] Refer to the official [Laravel documentation](https://laravel.com/docs).
+- [x] Contribute to GitHub projects or open-source code.
