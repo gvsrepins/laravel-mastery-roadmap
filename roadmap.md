@@ -54,7 +54,7 @@
 - [x] Learn component-based design with Blade components.
 - [x] Create reusable UI pieces.
 - [x] Build RESTful APIs:
-  - [z] Implement API authentication (Sanctum or Passport).
+  - [x] Implement API authentication (Sanctum or Passport).
   - [ ] Handle API versioning and serialization (Resources).
 - [x] Write tests:
   - [x] Feature tests
