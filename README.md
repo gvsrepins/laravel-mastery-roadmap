@@ -48,7 +48,7 @@ Whether you're starting from scratch or refining your skills, this roadmap will 
 
 ## 📚 Learning Resources
 
-- La[ravel Official Documentation](https://laravel.com/docs)
+- [Laravel Official Documentation](https://laravel.com/docs)
 - [Laracasts](https://laracasts.com)
 - [Laravel: Up & Running by Matt Stauffer](https://laravelupandrunning.com)
 - [The Net Ninja Laravel Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gF5Gez17eHcDIxrpVSBuVt)
